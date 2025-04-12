@@ -1,5 +1,6 @@
-// suma de dos numeros 
 package SEMANA1;
+// suma de dos numeros 
+
 import javax.swing.JOptionPane;
 
 public class Ejercicio1 {
