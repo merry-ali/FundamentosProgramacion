@@ -1,5 +1,4 @@
 package EXAMEN;
-
 import javax.swing.JOptionPane;
 
 public class practica8 {
@@ -13,7 +12,7 @@ public class practica8 {
             if (n>mayor) mayor = n;
             if (n<menor) menor = n;
         }
-//ñ{.-,´+}¿'.^~\\
+        //control mas alado del cero
         JOptionPane.showMessageDialog(null, "el numero mayor es :" + mayor+" \nel numero menor es :" + menor);
         
     }
